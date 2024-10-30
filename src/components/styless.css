@@ -1,0 +1,29 @@
+.nav-link {
+    color: black;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: black;
+    font-weight: 800;
+}
+
+.btn {
+    font-weight: 500;
+    margin-left: 0;
+}
+
+.imgg {
+    height: 2rem;
+    width: auto;
+}
+
+.head-textt {
+    font-size: 5rem;
+    font-weight: bolder;
+}
+
+.shoeimg {
+    height: 30rem;
+    width: auto;
+}
