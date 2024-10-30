@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShoeBrand/static/css/main.aa4ffc43.css",
+    "main.js": "/ShoeBrand/static/js/main.45d0c3bd.js",
+    "static/js/453.f93ea6f9.chunk.js": "/ShoeBrand/static/js/453.f93ea6f9.chunk.js",
+    "static/media/logo.svg": "/ShoeBrand/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ShoeBrand/index.html",
+    "main.aa4ffc43.css.map": "/ShoeBrand/static/css/main.aa4ffc43.css.map",
+    "main.45d0c3bd.js.map": "/ShoeBrand/static/js/main.45d0c3bd.js.map",
+    "453.f93ea6f9.chunk.js.map": "/ShoeBrand/static/js/453.f93ea6f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa4ffc43.css",
+    "static/js/main.45d0c3bd.js"
+  ]
+}
